@@ -6,7 +6,8 @@ Neste projeto foi utilizado a IDE PyCharm Community Edition 2021.3.3, com a vers
 
 Inicialmente, o banco de dados estava com algums problemas que impediram o carregamento do mesmo para a IDE do PyCharm. O problema era que algumas linhas estavam com uma virgula a mais, decorrente da separação de regioes dentro da coluna referente a "estado".
 
-![image](https://user-images.githubusercontent.com/97236661/167714912-7c350aae-01a4-4d4e-a65f-adcf37c4c975.png)
+![image](https://user-images.githubusercontent.com/97236661/167715241-f950f262-d875-4d05-8de6-676e5a37260e.png)
+
 
 A solução foi abrir o arquivo pelo excel e alterar manualmente as virgulas desta coluna por pontos.
 
